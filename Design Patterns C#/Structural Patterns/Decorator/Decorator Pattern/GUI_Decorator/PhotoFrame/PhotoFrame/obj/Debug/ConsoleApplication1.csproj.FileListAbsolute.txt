@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\GUI_Decorator\PhotoFrame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
