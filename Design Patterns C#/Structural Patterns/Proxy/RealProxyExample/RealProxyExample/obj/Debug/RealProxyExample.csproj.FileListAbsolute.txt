@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\bin\Debug\RealProxyExample.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\bin\Debug\RealProxyExample.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\bin\Debug\RealProxyExample.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\obj\Debug\RealProxyExample.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\obj\Debug\RealProxyExample.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Proxy\RealProxyExample\RealProxyExample\obj\Debug\RealProxyExample.pdb
