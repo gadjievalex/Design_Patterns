@@ -7,3 +7,6 @@ C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator
 C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\bin\Debug\Decorator Pattern.exe.config
 C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\obj\Debug\Decorator Pattern.exe
 C:\Users\Alex\Desktop\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\obj\Debug\Decorator Pattern.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\bin\Debug\Decorator Pattern.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\obj\Debug\Decorator Pattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Decorator\Decorator Pattern\SimpleDecorator\obj\Debug\Decorator Pattern.pdb
