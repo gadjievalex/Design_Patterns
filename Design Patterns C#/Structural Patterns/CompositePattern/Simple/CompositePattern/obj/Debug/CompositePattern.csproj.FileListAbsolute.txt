@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\CompositePattern\Simple\CompositePattern\obj\Debug\CompositePattern.pdb

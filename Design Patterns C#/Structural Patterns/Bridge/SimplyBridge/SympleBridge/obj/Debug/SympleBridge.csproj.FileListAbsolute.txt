@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\bin\Debug\SympleBridge.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\bin\Debug\SympleBridge.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\bin\Debug\SympleBridge.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\obj\Debug\SympleBridge.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\obj\Debug\SympleBridge.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\SimplyBridge\SympleBridge\obj\Debug\SympleBridge.pdb

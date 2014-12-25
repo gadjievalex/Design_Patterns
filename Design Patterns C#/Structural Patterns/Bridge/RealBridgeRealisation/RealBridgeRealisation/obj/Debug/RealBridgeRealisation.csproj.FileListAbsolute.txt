@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\bin\Debug\RealBridgeRealisation.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\obj\Debug\RealBridgeRealisation.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\bin\Debug\RealBridgeRealisation.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\bin\Debug\RealBridgeRealisation.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\obj\Debug\RealBridgeRealisation.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\Bridge\RealBridgeRealisation\RealBridgeRealisation\obj\Debug\RealBridgeRealisation.pdb

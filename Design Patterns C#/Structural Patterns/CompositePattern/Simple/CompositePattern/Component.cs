@@ -14,22 +14,30 @@ namespace CompositePattern
         }
         public void Add(IComponent<T> c)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cannot add to an item");
         }
 
         public IComponent<T> Remove(T s)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Can not remove directly");
+            return this;
         }
 
         public string Display(int depth)
         {
-            throw new NotImplementedException();
+            return new String('-', depth) + Name + "\n";
         }
 
         public IComponent<T> Find(T s)
         {
-            throw new NotImplementedException();
+            if(s.Equals(Name))
+            {
+                return this;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public T Name

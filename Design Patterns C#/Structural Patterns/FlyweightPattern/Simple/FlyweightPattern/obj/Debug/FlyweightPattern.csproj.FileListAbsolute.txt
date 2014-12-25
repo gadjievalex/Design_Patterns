@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\FlyweightPattern\Simple\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
