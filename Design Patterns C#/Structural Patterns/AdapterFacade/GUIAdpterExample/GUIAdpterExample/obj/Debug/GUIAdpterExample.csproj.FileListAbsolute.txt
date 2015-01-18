@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\GUIAdpterExample\GUIAdpterExample\bin\Debug\GUIAdpterExample.exe.config

@@ -1,0 +1,2 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\LazyInstantiation\SingletonLazyInstantiation\bin\Debug\SingletonLazyInstantiation.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\LazyInstantiation\SingletonLazyInstantiation\obj\Debug\SingletonLazyInstantiation.csprojResolveAssemblyReference.cache

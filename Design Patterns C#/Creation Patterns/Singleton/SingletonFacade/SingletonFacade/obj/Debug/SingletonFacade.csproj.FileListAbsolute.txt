@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonFacade\SingletonFacade\bin\Debug\SingletonFacade.exe.config

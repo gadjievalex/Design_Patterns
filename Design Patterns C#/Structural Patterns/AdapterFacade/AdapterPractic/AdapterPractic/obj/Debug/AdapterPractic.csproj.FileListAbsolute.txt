@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\bin\Debug\AdapterPractic.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\bin\Debug\AdapterPractic.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\bin\Debug\AdapterPractic.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\obj\Debug\AdapterPractic.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\obj\Debug\AdapterPractic.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\AdapterPractic\AdapterPractic\obj\Debug\AdapterPractic.pdb

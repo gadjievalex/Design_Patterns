@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\FacadeTheory\FacadeLib\FaccadeLib\obj\Debug\FaccadeLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\FacadeTheory\FacadeLib\FaccadeLib\bin\Debug\FaccadeLib.dll
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\FacadeTheory\FacadeLib\FaccadeLib\bin\Debug\FaccadeLib.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\FacadeTheory\FacadeLib\FaccadeLib\obj\Debug\FaccadeLib.dll
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\FacadeTheory\FacadeLib\FaccadeLib\obj\Debug\FaccadeLib.pdb

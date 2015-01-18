@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\PhotoArchive\PhotoArchive\bin\Debug\PhotoArchive.exe.config

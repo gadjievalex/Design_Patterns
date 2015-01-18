@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\bin\Debug\SingletonPatternGenericCode.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\bin\Debug\SingletonPatternGenericCode.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\bin\Debug\SingletonPatternGenericCode.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\obj\Debug\SingletonPatternGenericCode.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\obj\Debug\SingletonPatternGenericCode.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Singleton\SingletonPatternGenericCode\SingletonPatternGenericCode\obj\Debug\SingletonPatternGenericCode.csprojResolveAssemblyReference.cache

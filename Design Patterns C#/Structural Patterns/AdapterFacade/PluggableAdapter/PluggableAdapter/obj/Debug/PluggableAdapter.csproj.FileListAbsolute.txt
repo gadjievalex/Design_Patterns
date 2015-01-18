@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\bin\Debug\PluggableAdapter.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Structural Patterns\AdapterFacade\PluggableAdapter\PluggableAdapter\obj\Debug\PluggableAdapter.pdb

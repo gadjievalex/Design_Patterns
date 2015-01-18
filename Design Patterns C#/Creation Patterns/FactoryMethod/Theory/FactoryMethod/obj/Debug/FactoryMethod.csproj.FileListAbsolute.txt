@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\FactoryMethod\Theory\FactoryMethod\bin\Debug\FactoryMethod.exe.config

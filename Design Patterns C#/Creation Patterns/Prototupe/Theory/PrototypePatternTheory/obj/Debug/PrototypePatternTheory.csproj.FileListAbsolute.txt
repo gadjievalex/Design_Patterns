@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\bin\Debug\PrototypePatternTheory.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\obj\Debug\PrototypePatternTheory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\bin\Debug\PrototypePatternTheory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\bin\Debug\PrototypePatternTheory.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\obj\Debug\PrototypePatternTheory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\Prototupe\Theory\PrototypePatternTheory\obj\Debug\PrototypePatternTheory.pdb
