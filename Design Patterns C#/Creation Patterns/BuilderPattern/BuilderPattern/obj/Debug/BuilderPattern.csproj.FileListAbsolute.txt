@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
