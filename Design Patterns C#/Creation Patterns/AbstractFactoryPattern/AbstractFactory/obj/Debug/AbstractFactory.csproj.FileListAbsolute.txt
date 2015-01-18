@@ -1,1 +1,6 @@
 C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\AbstractFactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AbstractFactory.interfaces;
+using AbstractFactory.interfaces.products;
+using AbstractFactory.Products.Shoes;
 
 namespace AbstractFactory
 {
     class Factory<Brand>:IFactory<Brand>where Brand:IBrand, new()
     {
 
-        public IBag CreateBag()
+        public IBags CreateBag()
         {
             return new Bag<Brand>();
         }

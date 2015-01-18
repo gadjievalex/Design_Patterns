@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AbstractFactory.Brands;
+using System;
 
 namespace AbstractFactory
 {
@@ -10,6 +7,11 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
+            new Client<Poochy>().ClientMain();
+            new Client<Gucci>().ClientMain();
+            new Client<Groundcover>().ClientMain();
+
+            Console.ReadLine();
         }
     }
 }

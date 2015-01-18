@@ -41,8 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factory.cs" />
-    <Compile Include="IFactory.cs" />
+    <Compile Include="Brands\Groundcover.cs" />
+    <Compile Include="Brands\Poochy.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="interfaces\IBrand.cs" />
+    <Compile Include="interfaces\products\IShoes.cs" />
+    <Compile Include="Products\Bags\Bag.cs" />
+    <Compile Include="Brands\Gucci.cs" />
+    <Compile Include="Factorys\Factory.cs" />
+    <Compile Include="interfaces\products\IBags.cs" />
+    <Compile Include="interfaces\IFactory.cs" />
+    <Compile Include="Products\Shoes\Shoes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
