@@ -1,1 +1,6 @@
 C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
