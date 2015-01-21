@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17F8158D-4830-4373-8F98-0F892666733C}</ProjectGuid>
+    <ProjectGuid>{45D0CFCA-96AF-4C0C-AED9-16AD00364062}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BuilderActualExample</RootNamespace>
-    <AssemblyName>BuilderActualExample</AssemblyName>
+    <RootNamespace>StrategyPattern</RootNamespace>
+    <AssemblyName>StrategyPattern</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,14 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bag.cs" />
-    <Compile Include="Builder.cs" />
-    <Compile Include="Client.cs" />
-    <Compile Include="Guchi.cs" />
-    <Compile Include="IBag.cs" />
-    <Compile Include="IBrand.cs" />
-    <Compile Include="IBuilder.cs" />
-    <Compile Include="Poochy.cs" />
+    <Compile Include="A.cs" />
+    <Compile Include="B.cs" />
+    <Compile Include="C.cs" />
+    <Compile Include="D.cs" />
+    <Compile Include="F.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

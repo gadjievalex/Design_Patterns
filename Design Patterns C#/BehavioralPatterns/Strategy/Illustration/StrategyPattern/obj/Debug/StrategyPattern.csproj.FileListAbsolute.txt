@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\Illustration\StrategyPattern\obj\Debug\StrategyPattern.pdb

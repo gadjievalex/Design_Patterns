@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\bin\Debug\BuilderActualExample.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\bin\Debug\BuilderActualExample.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\bin\Debug\BuilderActualExample.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\obj\Debug\BuilderActualExample.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\obj\Debug\BuilderActualExample.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\Creation Patterns\BuilderPattern\BuilderActual\BuilderActualExample\obj\Debug\BuilderActualExample.pdb
