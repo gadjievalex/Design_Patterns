@@ -1,1 +1,6 @@
 C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\bin\Debug\TemplateMethodDesign.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\bin\Debug\TemplateMethodDesign.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\bin\Debug\TemplateMethodDesign.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\obj\Debug\TemplateMethodDesign.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\obj\Debug\TemplateMethodDesign.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\obj\Debug\TemplateMethodDesign.pdb

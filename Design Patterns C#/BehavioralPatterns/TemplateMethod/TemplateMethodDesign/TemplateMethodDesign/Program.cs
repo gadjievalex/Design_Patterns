@@ -10,6 +10,12 @@ namespace TemplateMethodDesign
     {
         static void Main(string[] args)
         {
+            Algorithm m = new Algorithm();
+
+            m.TemplateMethod(new ClassA());
+            m.TemplateMethod(new ClassB());
+
+            Console.ReadLine();
         }
     }
 }

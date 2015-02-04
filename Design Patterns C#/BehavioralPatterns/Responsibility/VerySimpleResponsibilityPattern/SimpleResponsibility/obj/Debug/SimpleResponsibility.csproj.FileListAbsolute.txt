@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\bin\Debug\SimpleResponsibility.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\bin\Debug\SimpleResponsibility.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\bin\Debug\SimpleResponsibility.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\obj\Debug\SimpleResponsibility.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\obj\Debug\SimpleResponsibility.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\VerySimpleResponsibilityPattern\SimpleResponsibility\obj\Debug\SimpleResponsibility.pdb

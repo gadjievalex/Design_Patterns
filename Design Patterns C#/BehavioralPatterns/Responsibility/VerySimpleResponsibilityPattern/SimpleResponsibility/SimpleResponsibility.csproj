@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B62AA8E4-1820-4281-A341-F1A24D31B1C7}</ProjectGuid>
+    <ProjectGuid>{CBE8CCF1-A270-4B44-AC1D-5A53C5D519D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TemplateMethodDesign</RootNamespace>
-    <AssemblyName>TemplateMethodDesign</AssemblyName>
+    <RootNamespace>SimpleResponsibility</RootNamespace>
+    <AssemblyName>SimpleResponsibility</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,10 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithm.cs" />
-    <Compile Include="ClassA.cs" />
-    <Compile Include="ClassB.cs" />
-    <Compile Include="IPrimitives.cs" />
+    <Compile Include="Handler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

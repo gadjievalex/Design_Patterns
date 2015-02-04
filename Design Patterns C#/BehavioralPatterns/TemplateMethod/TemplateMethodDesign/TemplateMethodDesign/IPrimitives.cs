@@ -8,5 +8,7 @@ namespace TemplateMethodDesign
 {
     interface IPrimitives
     {
+        string Operation1();
+        string Operation2();
     }
 }

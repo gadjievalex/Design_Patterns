@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\bin\Debug\TheoryResponsibility.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\bin\Debug\TheoryResponsibility.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\bin\Debug\TheoryResponsibility.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\obj\Debug\TheoryResponsibility.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\obj\Debug\TheoryResponsibility.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\Theory\TheoryResponsibility\obj\Debug\TheoryResponsibility.pdb
