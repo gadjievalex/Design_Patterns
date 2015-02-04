@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace StrategyPattern
@@ -10,24 +11,21 @@ namespace StrategyPattern
     {
         static void Main(string[] args)
         {
-            A a = new A();
+            Context context = new Context();
+            context.SwitchStrategy();
+            Random r = new Random(37);
 
-            B b = new B();
-
-            C c = new C();
-
-            D d = new D();
-
-            F f = new F();
-
-            a.call("piupiu");
-
-            b.call("piupiu");
-
-            c.call("piupiu");
-
-            d.call("piupiu");
-
+            for (int i = Context.start; i <= Context.start + 15; i++)
+            {
+                if(r.Next(3)==2)
+                {
+                    Console.Write("||");
+                    Thread.Sleep(250);
+                    context.SwitchStrategy();
+                }
+                Console.Write(context.Algorithm() + " ");
+            }
+            Console.WriteLine();
             Console.ReadLine();
         }
     }

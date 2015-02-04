@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern
 {
-    class F
+    class Strategy1:IStrategy
     {
-        A a = new A();
-
-        public F()
+        public int Move(Context c)
         {
-            a.call("piupui");
+            return ++c.Counter;
         }
     }
 }

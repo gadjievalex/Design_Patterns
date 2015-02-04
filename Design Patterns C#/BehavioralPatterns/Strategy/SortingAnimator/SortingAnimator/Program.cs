@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace StrategyPattern
+namespace SortingAnimator
 {
-    class B:A
+    class Program
     {
-        public B():base()
+        static void Main(string[] args)
         {
-            
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\bin\Debug\SortingAnimator.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\bin\Debug\SortingAnimator.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\bin\Debug\SortingAnimator.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\obj\Debug\SortingAnimator.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\obj\Debug\SortingAnimator.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Strategy\SortingAnimator\SortingAnimator\obj\Debug\SortingAnimator.csprojResolveAssemblyReference.cache

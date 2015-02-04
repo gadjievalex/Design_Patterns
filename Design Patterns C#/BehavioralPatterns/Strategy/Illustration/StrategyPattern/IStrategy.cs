@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern
 {
-    public class A
+    interface IStrategy
     {
-        public void call(string value)
-        {
-            var item = value;
-        }
+        int Move(Context c);
     }
 }
