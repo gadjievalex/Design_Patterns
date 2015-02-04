@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\TemplateMethodDesign\TemplateMethodDesign\bin\Debug\TemplateMethodDesign.exe.config

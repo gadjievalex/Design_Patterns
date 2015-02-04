@@ -11,7 +11,9 @@ namespace SortingAnimator
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new StrategyView<int>(StartSetGenerator.GetStartSet));
         }
     }
 }

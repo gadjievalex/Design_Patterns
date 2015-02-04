@@ -48,6 +48,7 @@ namespace SortingAnimator
             b = new Button();
             b.Name = "ReversedList";
             b.Click += new EventHandler(ButtonClick);
+            b.Text = "Reversed";
             p.Controls.Add(b);
 
             p.Height = b.Height + 4;
@@ -82,7 +83,7 @@ namespace SortingAnimator
                 x++;
             }
             this.Refresh();
-            Thread.Sleep(500);
+            Thread.Sleep(5);
             Application.DoEvents();
         }
 

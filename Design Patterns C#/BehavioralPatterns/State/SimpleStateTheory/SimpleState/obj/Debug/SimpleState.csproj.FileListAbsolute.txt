@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\bin\Debug\SimpleState.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\obj\Debug\SimpleState.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\bin\Debug\SimpleState.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\bin\Debug\SimpleState.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\obj\Debug\SimpleState.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\SimpleStateTheory\SimpleState\obj\Debug\SimpleState.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\bin\Debug\StateGame.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\obj\Debug\StateGame.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\bin\Debug\StateGame.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\bin\Debug\StateGame.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\obj\Debug\StateGame.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\State\Game\StateGame\obj\Debug\StateGame.pdb

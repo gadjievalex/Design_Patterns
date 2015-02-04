@@ -46,6 +46,7 @@
     <Compile Include="MergeSorter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickSorter.cs" />
     <Compile Include="SortStrategy.cs" />
     <Compile Include="StartSetGenerator.cs" />
     <Compile Include="StrategyView.cs">

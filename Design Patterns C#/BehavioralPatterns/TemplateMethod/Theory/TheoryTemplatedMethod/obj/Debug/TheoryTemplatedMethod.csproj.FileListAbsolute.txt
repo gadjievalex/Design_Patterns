@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\bin\Debug\TheoryTemplatedMethod.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\bin\Debug\TheoryTemplatedMethod.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\bin\Debug\TheoryTemplatedMethod.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\obj\Debug\TheoryTemplatedMethod.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\obj\Debug\TheoryTemplatedMethod.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\TemplateMethod\Theory\TheoryTemplatedMethod\obj\Debug\TheoryTemplatedMethod.pdb
