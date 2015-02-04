@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\bin\Debug\BankRequest.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\bin\Debug\BankRequest.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\bin\Debug\BankRequest.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\obj\Debug\BankRequest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\obj\Debug\BankRequest.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Responsibility\BankRequest\BankRequest\obj\Debug\BankRequest.pdb
