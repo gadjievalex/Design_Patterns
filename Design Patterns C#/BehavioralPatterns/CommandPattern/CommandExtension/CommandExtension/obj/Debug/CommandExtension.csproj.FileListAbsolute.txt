@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\bin\Debug\CommandExtension.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\bin\Debug\CommandExtension.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\bin\Debug\CommandExtension.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\obj\Debug\CommandExtension.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\obj\Debug\CommandExtension.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\CommandExtension\CommandExtension\obj\Debug\CommandExtension.pdb

@@ -10,6 +10,14 @@ namespace CommandTheory
     {
         static void Main(string[] args)
         {
+            new Command(new Receiver());
+            
+            Command.Execute();
+            Command.Redo();
+            Command.Undo();
+            Command.Execute();
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\bin\Debug\CommandTheory.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\bin\Debug\CommandTheory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\bin\Debug\CommandTheory.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\obj\Debug\CommandTheory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\obj\Debug\CommandTheory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\Theory\CommandTheory\obj\Debug\CommandTheory.pdb

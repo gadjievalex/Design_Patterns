@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\bin\Debug\SimplMenu.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\obj\Debug\SimplMenu.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\bin\Debug\SimplMenu.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\bin\Debug\SimplMenu.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\obj\Debug\SimplMenu.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\CommandPattern\SimplMenu\SimplMenu\obj\Debug\SimplMenu.pdb
