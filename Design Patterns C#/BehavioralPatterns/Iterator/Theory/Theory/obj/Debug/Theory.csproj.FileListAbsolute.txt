@@ -1,1 +1,6 @@
 C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\bin\Debug\Theory.exe.config
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\bin\Debug\Theory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\bin\Debug\Theory.pdb
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\obj\Debug\Theory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\obj\Debug\Theory.exe
+C:\Users\Alex\Desktop\Design-Patterns\Design Patterns C#\BehavioralPatterns\Iterator\Theory\Theory\obj\Debug\Theory.pdb
